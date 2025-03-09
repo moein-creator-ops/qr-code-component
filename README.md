@@ -11,7 +11,7 @@ A simple and responsive card component built with pure CSS and HTML.
 
 ## Preview
 
-[Live Demo]([https://your-live-demo-link.com/](https://moein-creator-ops.github.io/qr-code-component/))
+[Live Demo](https://moein-creator-ops.github.io/qr-code-component/)
 
 ## Credits
 
